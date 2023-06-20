@@ -5,8 +5,8 @@ An interesting fact about this project is that the background music is AI-genera
 this project is also my first experience with GitHub Copilot.
 
 
-# Contribution Help 
-1. help with a bug where the game reset after restarting by pressing enter.
-2. add difficulty scaling functionality where the size of the canvas is reduced as the difficulty increases.
-3. add a proper snake head and body image to the canvas.
+#How you can contribute?
+1. bug fix where the game reset after restarting by pressing enter.
+2. add difficulty scaling functionality where the size of the canvas is reduced as the difficulty increases. (a scaling button menu is already added.facing problem in the javascript progrmamming )
+3. Add a snake's head and body image to the canvas.
 
